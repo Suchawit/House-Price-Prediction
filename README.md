@@ -1,2 +1,3 @@
 # House-Price-Prediction
-Create a model to fit processed data to predict house price
+The purpose of the project is to have a better understanding of machine learning algorithms learnt from the academic lecture by implementing the algorithms to the specific problem and check if the result matches the expectation. The main goal for the project is to predict the price of residential homes located in Ames , Lowa, which requires training the system by letting the system learn from the data provided from the Kaggle about the relationship between each different attribute of the house and the price. Overall, the project uses both XGBoost regression and Deep Learning to achieve the house price prediction, and both machine learning algorithms come up with good prediction rates.
+
