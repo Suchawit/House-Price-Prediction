@@ -20,12 +20,12 @@ Downloaded data and stored using Pandas library, then checked each column if it 
 
 ### Xgboost with Default Setting
 
-<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/xgb_default.PNG" width="500px"/> 
+<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/xgb_default.PNG" width="800px"/> 
 <img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Result_xgb.PNG" width="300px"/>
 
 ### Xgboost with Regularization
 
-<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/xgb_add_regularization.PNG" width="500px"/> 
+<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/xgb_add_regularization.PNG" width="800px"/> 
 <img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Result_xgb_add_regularization.PNG" width="300px"/>
 
 ### Deep Learning Keras
