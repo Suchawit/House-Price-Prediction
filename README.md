@@ -21,25 +21,25 @@ Downloaded data and stored using Pandas library, then checked each column if it 
 ### Xgboost with Default Setting
 
 <img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/xgb_default.PNG" width="500px"/> 
-<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Result_xgb.PNG" width="500px"/>
+<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Result_xgb.PNG" width="300px"/>
 
 ### Xgboost with Regularization
 
 <img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/xgb_regularization.PNG" width="500px"/> 
-<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Result_xgb_reg.PNG" width="500px"/>
+<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Result_xgb_reg.PNG" width="300px"/>
 
 ### Deep Learning Keras
 
-<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/big_deep_learning_model_keras.PNG" width="500px"/> 
-<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Result_big_deep_learning_model_keras.PNG" width="500px"/>
+<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/big_deep_learning_model_keras.PNG" width="800px"/> 
+<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Result_big_deep_learning_model_keras.PNG" width="300px"/>
 
 
 ### Optimized Deep Learning Keras
 
-<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/optimized_deep_learning_model_keras.PNG" width="500px"/> 
-<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Result_optimized_deep_learning_model_keras.PNG" width="500px"/>
+<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/optimized_deep_learning_model_keras.PNG" width="800px"/> 
+<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Result_optimized_deep_learning_model_keras.PNG" width="300px"/>
 
 ### Optimized Deep Learning Pytorch
 
-<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/deep_learning_pytorch.PNG" width="500px"/> 
-<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Result_deep_learning_pytorch.PNG" width="500px"/>
+<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/deep_learning_pytorch.PNG" width="800px"/> 
+<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Result_deep_learning_pytorch.PNG" width="300px"/>
