@@ -3,4 +3,4 @@ The purpose of the project is to have a better understanding of machine learning
 
 ## Dataset
 
-Data is available to download from [**here**](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+Dataset is available to be downloaded from [**here**](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
