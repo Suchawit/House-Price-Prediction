@@ -25,8 +25,8 @@ Downloaded data and stored using Pandas library, then checked each column if it 
 
 ### Xgboost with Regularization
 
-<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/xgb_regularization.PNG" width="500px"/> 
-<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Result_xgb_reg.PNG" width="300px"/>
+<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/xgb_add_regularization.PNG" width="500px"/> 
+<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Result_xgb_add_reg.PNG" width="300px"/>
 
 ### Deep Learning Keras
 
