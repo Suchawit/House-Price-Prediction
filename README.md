@@ -20,8 +20,7 @@ Downloaded data and stored using Pandas library, then checked each column if it 
 
 ### Xgboost with Default Setting
 
-<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Illustrate.PNG" width="400px"/>
-<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Illustrate.PNG" width="400px"/>
+<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Illustrate.PNG" width="400px"/> <img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Illustrate.PNG" width="400px"/>
 
 ### Xgboost with Regularization
 
