@@ -10,4 +10,4 @@ Dataset is available to be downloaded from [**here**](https://www.kaggle.com/c/h
 
 ## Dependency
 
-    pip install -r requirement.txt
+    pip install -r requirements.txt
