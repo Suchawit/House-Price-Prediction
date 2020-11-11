@@ -24,7 +24,7 @@ Downloaded data and stored using Pandas library, then checked each column if it 
 
 #### Apply testing data
 
-<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/test_result_xgb.PNG" width="300px"/>
+<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/test_result_xgb.PNG" width="400px"/>
 <img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Result_xgb.PNG" width="300px"/>
 
 ### Xgboost with Regularization
@@ -33,7 +33,7 @@ Downloaded data and stored using Pandas library, then checked each column if it 
 
 #### Apply testing data
 
-<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/test_result_xgb_reg.PNG" width="300px"/>
+<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/test_result_xgb_reg.PNG" width="400px"/>
 <img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Result_xgb_add_regularization.PNG" width="300px"/>
 
 ### Deep Learning Keras
@@ -42,7 +42,7 @@ Downloaded data and stored using Pandas library, then checked each column if it 
 
 #### Apply testing data
 
-<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/test_result_keras.PNG" width="300px"/>
+<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/test_result_keras.PNG" width="400px"/>
 <img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Result_big_deep_learning_model_keras.PNG" width="300px"/>
 
 ### Optimized Deep Learning Keras
@@ -50,7 +50,7 @@ Downloaded data and stored using Pandas library, then checked each column if it 
 <img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/optimized_deep_learning_model_keras.PNG" width="900px"/> 
 
 #### Apply testing data
-<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/test_result_op_keras.PNG" width="300px"/>
+<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/test_result_op_keras.PNG" width="400px"/>
 <img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Result_optimized_deep_learning_model_keras.PNG" width="300px"/>
 
 ### Optimized Deep Learning Pytorch
@@ -58,5 +58,5 @@ Downloaded data and stored using Pandas library, then checked each column if it 
 <img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/deep_learning_pytorch.PNG" width="900px"/> 
 
 #### Apply testing data
-<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/test_result_pytorch.PNG" width="300px"/>
+<img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/test_result_pytorch.PNG" width="400px"/>
 <img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Result_deep_learning_pytorch.PNG" width="300px"/>
