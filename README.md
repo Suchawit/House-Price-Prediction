@@ -31,15 +31,24 @@ Downloaded data and stored using Pandas library, then checked each column if it 
 ### Deep Learning Keras
 
 <img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/big_deep_learning_model_keras.PNG" width="900px"/> 
+
+#### Apply testing data
+
 <img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Result_big_deep_learning_model_keras.PNG" width="300px"/>
 
 
 ### Optimized Deep Learning Keras
 
 <img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/optimized_deep_learning_model_keras.PNG" width="900px"/> 
+
+#### Apply testing data
+
 <img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Result_optimized_deep_learning_model_keras.PNG" width="300px"/>
 
 ### Optimized Deep Learning Pytorch
 
 <img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/deep_learning_pytorch.PNG" width="900px"/> 
+
+#### Apply testing data
+
 <img src="https://github.com/Suchawit/House-Price-Prediction/blob/main/img/Result_deep_learning_pytorch.PNG" width="300px"/>
