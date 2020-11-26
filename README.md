@@ -14,7 +14,7 @@ Dataset is available to be downloaded from [**here**](https://www.kaggle.com/c/h
 
 ## Preprocessing Data
 
-Downloaded data and stored using Pandas library, then checked each column if it contained more than 75% miss values, these columns will not be considered. Since many columns contained object type values including NaN, labeled those object type values to integer type, and set NaN to that column mean ([**Code**](https://github.com/Suchawit/House-Price-Prediction/blob/main/House-Price-Prediction-Project_finished.ipynb))
+Downloaded data and stored using Pandas library, then checked each column if it contained more than 75% miss values, these columns will not be considered. Since many columns contained object type values including NaN, labeled those object type values to integer type, and set NaN to that column mean ([**Code**](https://github.com/Suchawit/House-Price-Prediction/blob/main/House-Price-Prediction-Project_finished.py))
 
 ## Models and Results
 
